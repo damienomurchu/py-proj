@@ -1,3 +1,4 @@
+
 # -*- coding: utf-8 -*-
 
 # Learn more: https://github.com/kennethreitz/setup.py
@@ -12,14 +13,13 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='python-project-name',
     version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    description='python-project-description',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Damien Murphy',
+    author_email='damienomurchu@gmail.com',
+    url='https://github.com/damienomurchu/py-proj',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
-

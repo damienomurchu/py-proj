@@ -1,10 +1,11 @@
-Sample Module Repository
-========================
+<Python-Project-Name>
+=====================
 
-This simple project is an example repo for Python projects.
+Overview
+--------
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
 
----------------
+Setup
+-----
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+Learn more about ``setup.py`` files `here <https://github.com/kennethreitz/setup.py>`_.
